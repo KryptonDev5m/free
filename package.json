@@ -1,0 +1,14 @@
+{
+  "name": "player-count-bot",
+  "version": "1.0.0",
+  "description": "Bot Made By: Scotty Productions | Shows your server player count in your discord through our custom bot!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scotty Productions",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
